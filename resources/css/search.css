@@ -1,0 +1,21 @@
+.search{
+    width: 1280px;
+}
+#content {
+    background-color: gainsboro;
+    padding-left: 30px;
+}
+#content h4{
+    color: rgb(20, 116, 106);
+}
+#ten-content {
+    background-color: lightgray;
+}
+
+td {
+    padding-left: 15px;
+}
+
+#button-back {
+    position: absolute;
+}

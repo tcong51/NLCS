@@ -1,0 +1,24 @@
+td img {
+    width: 250px;
+    height: 250px;
+}
+
+
+.content_list {
+    width: 1280px;
+}
+#content {
+    background-color: gainsboro;
+}
+
+#ten-content {
+    background-color: lightgray;
+}
+
+td {
+    padding-left: 15px;
+    padding: 10px;
+}
+tr h3{
+    color: rgb(20, 116, 106);
+}

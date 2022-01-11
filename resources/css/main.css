@@ -1,0 +1,48 @@
+#left {
+    width: 580px;
+    /* height: 500px; */
+    float: left;
+    padding-left: 10px;
+}
+#show{
+    margin: 0 auto;
+    position: absolute;
+    width: 227px;
+    background: white;
+    color:black;
+}
+#show #noresult{
+    color:black;
+    text-align: center;
+}
+#left a {
+    font-size: 42px;
+}
+
+#right {
+    width: 700px;
+    /* height: 500px; */
+    float: right;
+    padding-top: 40px;
+}
+
+img {
+    padding-left: 10px;
+    width: 98%;
+    height: 100%;
+}
+
+.content {
+    width: 1280px;
+    background-color: lightgray;
+    height: 450px;
+}
+
+#hienthi {
+    width: 1280px;
+}
+
+#contentShow {
+    width: 100%;
+    height: 250px;
+}

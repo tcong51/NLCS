@@ -1,0 +1,19 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: red; */
+  /* color: white; */
+  text-align: center;
+}
+.py-4{
+    padding-top: 6.0rem!important;
+}
+.btn-primary {
+    color: black;
+    font-family: Verdana, sans-serif;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-color:rgba(0, 0, 0, 0.2);
+    padding: 30px;
+}
